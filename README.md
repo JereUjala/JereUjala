@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like anything that has to do with UNIX™ or with history of different programming languages.
+I like anything that has to do with UNIX™ or with the history of different programming languages.
 
 <details>
 <summary>Programming languages I would like to study</summary>
